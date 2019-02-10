@@ -1,0 +1,6 @@
+---
+applications:
+- name: redesocial-agnl
+  memory: 128M
+  instances: 1
+  host: redesocial-agnl
